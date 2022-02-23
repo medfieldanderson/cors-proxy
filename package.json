@@ -1,0 +1,25 @@
+{
+  "name": "cors-proxy",
+  "description": "CORS Proxy server used during development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medfieldanderson/cors-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medfieldanderson/cors-proxy/issues"
+  },
+  "homepage": "https://github.com/medfieldanderson/cors-proxy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.0"
+  }
+}

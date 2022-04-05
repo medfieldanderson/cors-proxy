@@ -4,7 +4,7 @@ CORS Proxy server used during development
 # setup
 Open a terminal 
 ```
-ctrl ,
+ctrl ~
 ```
 Locally install node modules from package.json
 ```

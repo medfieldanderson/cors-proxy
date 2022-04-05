@@ -1,6 +1,16 @@
 # cors-proxy
 CORS Proxy server used during development
 
+# setup
+Open a terminal 
+```
+ctrl ,
+```
+Locally install node modules from package.json
+```
+npm install
+```
+
 In the "cors-proxy" root directory, run the following command:
 
     node index.js
